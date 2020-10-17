@@ -3,5 +3,7 @@
 I'm currently maintaining:
 
 :heart: [react-boilerplate](https://github.com/mikechabot/react-boilerplate)
+<br />
 :heart: [redux-entity](https://github.com/mikechabot/redux-entity)
+<br />
 :heart: [maybe-baby](https://github.com/mikechabot/maybe-baby)
