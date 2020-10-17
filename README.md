@@ -2,6 +2,6 @@
 
 I'm currently maintaining:
 
-- [react-boilerplate](https://github.com/mikechabot/react-boilerplate)
-- [redux-entity](https://github.com/mikechabot/redux-entity)
-- [maybe-baby](https://github.com/mikechabot/maybe-baby)
+:heart: [react-boilerplate](https://github.com/mikechabot/react-boilerplate)
+:heart: [redux-entity](https://github.com/mikechabot/redux-entity)
+:heart: [maybe-baby](https://github.com/mikechabot/maybe-baby)
