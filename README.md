@@ -1,6 +1,6 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mikechabot&theme=dark&show_icons=true)
 
-I'm actively maintaining:
+I'm no longer maintaining:
 
 :heart: [react-boilerplate](https://github.com/mikechabot/react-boilerplate)
 <br />
