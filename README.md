@@ -1,6 +1,6 @@
 <div style='text-align: center;'>
   <a href='https://www.flagsync.com'>
-   <img sty src='https://flagsync-horizon.s3.amazonaws.com/assets/og-twitter.png' height='300px' />
+   <img sty src='https://flagsync-horizon.s3.amazonaws.com/assets/og-twitter.webp' height='300px' />
   </a>
 </div>
 <br />
